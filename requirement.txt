@@ -1,0 +1,25 @@
+tensorflow
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+streamlit
+huggingface-hub
+datasets
+albumentations
+tqdm
+pyyaml
+plotly
+gdown
+requests
+ipython
+jupyter
+notebook
+There are folder which are unable to upload due to high load.
